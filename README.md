@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @l2020-max
-- 👀 I’m interested in UI/ux designing
-- 🌱 I’m currently learning digital marketing and UI /UX design
-- 💞️ I’m looking to collaborate on design
+- 👀 I'm a virtual assisstant, content creator and social media manager 
+- 🌱 I will like to connect with proffesionals like me to learn more.
+- 💞️ you can reach me in my social medias ''labioyuce''
 - 📫 How to reach me Labioyuce@gmail.com
 
 <!---
