@@ -19,5 +19,5 @@ Trello · Notion · Gmail · Outlook · Google Calendar · Google Sheets · Zend
 ## 📫 Let's Connect
 - 🐦 X (Twitter): [@your_handle](https://twitter.com/labioyuce)
 - 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/labioyuce)
-- 📁 Portfolio: https://canva.link/xwuhss1zvjtv86i
+- 📁 Portfolio: https://github.com/l2020-max/VA-portfolio
 - upwork: https://www.upwork.com/freelancers/~01ab888617e353fa0f?mp_source=share
