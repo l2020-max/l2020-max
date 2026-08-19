@@ -16,8 +16,8 @@ Trello · Notion · Gmail · Outlook · Google Calendar · Google Sheets · Zend
 🎓 BSc Economics, PGD Business Administration & Law — Obafemi Awolowo University
 📜 ALX Virtual Assistant | HubSpot Digital Marketing & Customer Service | TEFL
 
-## 📫 Let's Connect
-- 🐦 X (Twitter): [@your_handle](https://twitter.com/labioyuce)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/labioyuce)
+📫 Let's Connect
+- 🐦 X (Twitter): https://twitter.com/labioyuce
+- 💼 LinkedIn: https://linkedin.com/in/labioyuce
 - 📁 Portfolio: https://github.com/l2020-max/VA-portfolio
-- upwork: https://www.upwork.com/freelancers/~01ab888617e353fa0f?mp_source=share
+-    upwork: https://www.upwork.com/freelancers/~01ab888617e353fa0f?mp_source=share
